@@ -1,10 +1,4 @@
-// const API_URL =
-//   "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=3379e2e0994553fc1d0d3c5fac2bfca1";
 
-// const IMG_PATH = "https://image.tmbd.org/t/p/w1280";
-
-// const SEARCH_API =
-//   'https://api.themoviedb.org/3/search/movie?api_key=3379e2e0994553fc1d0d3c5fac2bfca1&query="';
 
 const api_link =
   "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=3379e2e0994553fc1d0d3c5fac2bfca1&page=1";
